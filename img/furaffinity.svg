@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="rect4159" transform="matrix(1.00153,0,0,1.00153,0,-0.763364)">
+        <rect x="0" y="0.762" width="499.238" height="499.238" style="fill:rgb(220,20,60);fill-opacity:0.984314;"/>
+    </g>
+    <g id="path4162" transform="matrix(0.873836,0,0,0.873836,31.0426,31.7292)">
+        <path d="M50.305,363.567L344.893,363.567C344.893,363.567 390.047,357.025 420.188,318.199C441.728,290.452 438.088,262.62 439.467,220.556C441.325,163.852 450.838,136.052 450.838,136.052L149.009,136.052C55.552,148.364 50.305,235.779 50.305,235.779L50.305,363.567Z" style="fill:white;"/>
+    </g>
+    <g id="text4166" transform="matrix(0.873836,0,0,0.873836,121.29,382.063)">
+        <text x="0px" y="0px" style="font-family:'Candara-Bold', 'Candara', sans-serif;font-weight:700;font-size:425px;fill:rgb(220,20,60);">a</text>
+    </g>
+    <g id="path4194" transform="matrix(0.873836,0,0,0.873836,31.0426,31.7292)">
+        <path d="M336.341,128.978L327.925,175.771L368.168,175.771L364.378,217.845L403.388,216.33L401.495,255.312L449.25,251.248L450.14,261.71L390.426,266.792L392.344,227.267L352.848,228.801L356.68,186.271L315.368,186.271L326.007,127.119L336.341,128.978Z" style="fill:rgb(220,20,60);"/>
+    </g>
+</svg>
