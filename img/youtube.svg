@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <rect id="youtube.-back" x="0" y="0" width="128" height="128" style="fill:rgb(220,20,60);"/>
+        <path id="youtube.-youtube" d="M99.84,78.336C99.84,83.968 95.231,88.576 89.6,88.576L38.399,88.576C32.768,88.576 28.16,83.968 28.16,78.336L28.16,49.664C28.16,44.032 32.768,39.424 38.399,39.424L89.6,39.424C95.231,39.424 99.84,44.032 99.84,49.664L99.84,78.336ZM56.597,72.793L75.965,62.758L56.597,52.653L56.597,72.793Z" style="fill:white;fill-rule:nonzero;"/>
+    </g>
+</svg>
