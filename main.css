@@ -73,6 +73,6 @@ p, li {
     padding: 50px 80px;
 }
 
-.thumbnail {
+.thumbnail img {
     max-height: 200px;
 }
