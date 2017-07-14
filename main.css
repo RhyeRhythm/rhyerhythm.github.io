@@ -74,10 +74,5 @@ p, li {
 }
 
 .thumbnail img {
-    min-height: 100%;
-    position: relative;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    max-height: 50%;
 }
