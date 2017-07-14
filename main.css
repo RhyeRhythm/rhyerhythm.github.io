@@ -72,3 +72,7 @@ p, li {
     text-align: center;
     padding: 50px 80px;
 }
+
+.thumbnail {
+    max-height: 200px;
+}
