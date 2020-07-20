@@ -63,6 +63,10 @@ p, li {
         color: #dc143c;
     }
 
+#conventions {
+    text-align: center;
+}
+
 #contact {
     color: #fff;
     background-color: #000;
