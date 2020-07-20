@@ -65,6 +65,7 @@ p, li {
 
 #conventions {
     text-align: center;
+    display: inline-block;
 }
 
 #contact {
