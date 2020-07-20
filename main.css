@@ -66,6 +66,7 @@ p, li {
 #conventions {
     text-align: center;
     display: inline-block;
+    padding: 50px 80px;
 }
 
 #contact {
